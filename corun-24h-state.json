@@ -14,9 +14,9 @@
     }
   },
   "eta_watermark_ms": {
-    "5070": 1794990692202,
-    "570": 1794991714216,
-    "870": 1794991982006
+    "5070": 1794994453648,
+    "570": 1794995469684,
+    "870": 1794995617009
   },
   "jobs": [
     {
@@ -8537,6 +8537,181 @@
       "s": 19.515,
       "ts": "2026-11-18T08:53:02.006Z",
       "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 19.276,
+      "ts": "2026-11-18T08:56:31.092Z",
+      "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 11.035,
+      "ts": "2026-11-18T08:55:27.985Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 2.62,
+      "ts": "2026-11-18T09:02:02.727Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 19.299,
+      "ts": "2026-11-18T09:06:48.067Z",
+      "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 22.133,
+      "ts": "2026-11-18T09:06:13.162Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 18.589,
+      "ts": "2026-11-18T09:07:10.682Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 34.949,
+      "ts": "2026-11-18T09:09:23.304Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 15.505,
+      "ts": "2026-11-18T09:09:46.686Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 19.375,
+      "ts": "2026-11-18T09:17:09.785Z",
+      "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 19.315,
+      "ts": "2026-11-18T09:17:37.860Z",
+      "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 19.32,
+      "ts": "2026-11-18T09:28:01.730Z",
+      "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 19.357,
+      "ts": "2026-11-18T09:34:17.872Z",
+      "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 19.403,
+      "ts": "2026-11-18T09:34:56.010Z",
+      "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 13.475,
+      "ts": "2026-11-18T09:34:13.648Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 19.305,
+      "ts": "2026-11-18T09:38:53.638Z",
+      "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 19.402,
+      "ts": "2026-11-18T09:39:59.868Z",
+      "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 3.895,
+      "ts": "2026-11-18T09:40:04.463Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 5.294,
+      "ts": "2026-11-18T09:41:09.978Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 19.201,
+      "ts": "2026-11-18T09:42:31.131Z",
+      "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 12.081,
+      "ts": "2026-11-18T09:42:56.731Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 5.321,
+      "ts": "2026-11-18T09:48:33.829Z",
+      "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 7.027,
+      "ts": "2026-11-18T09:51:09.684Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 19.208,
+      "ts": "2026-11-18T09:51:16.811Z",
+      "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 19.021,
+      "ts": "2026-11-18T09:52:58.705Z",
+      "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 19.225,
+      "ts": "2026-11-18T09:53:37.009Z",
+      "wf": "chroma-v48-detail-svd_fp8"
     }
   ],
   "samples": [
@@ -11863,6 +12038,570 @@
         "478": 7
       },
       "ts": "2026-11-18T08:54:35Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 112,
+        "463": 104,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T09:04:21Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": true,
+        "870": false
+      },
+      "complete": {
+        "462": 113,
+        "463": 108,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "3fbe66e541aa",
+          "container_started_at": "2026-11-18T09:05:08.299140615Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "got prompt",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": true
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T09:10:32Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 113,
+        "463": 108,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "3fbe66e541aa",
+          "container_started_at": "2026-11-18T09:05:08.299140615Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "got prompt",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T09:15:13Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 113,
+        "463": 108,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "3fbe66e541aa",
+          "container_started_at": "2026-11-18T09:05:08.299140615Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "got prompt",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T09:16:55Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 115,
+        "463": 108,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "3fbe66e541aa",
+          "container_started_at": "2026-11-18T09:05:08.299140615Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "got prompt",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T09:22:48.837Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 115,
+        "463": 108,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "3fbe66e541aa",
+          "container_started_at": "2026-11-18T09:05:08.299140615Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "got prompt",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T09:25:02Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": false,
+        "870": true
+      },
+      "complete": {
+        "462": 116,
+        "463": 108,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "3fbe66e541aa",
+          "container_started_at": "2026-11-18T09:05:08.299140615Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "got prompt",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": true
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T09:29:20Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 116,
+        "463": 108,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "3fbe66e541aa",
+          "container_started_at": "2026-11-18T09:05:08.299140615Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "got prompt",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T09:36:07Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 119,
+        "463": 108,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "3fbe66e541aa",
+          "container_started_at": "2026-11-18T09:05:08.299140615Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "got prompt",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T09:39:14Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": true,
+        "870": true
+      },
+      "complete": {
+        "462": 121,
+        "463": 110,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "3fbe66e541aa",
+          "container_started_at": "2026-11-18T09:05:08.299140615Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "Prompt executed in 8.08 seconds",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": true
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": true
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T09:46:23Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 121,
+        "463": 110,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T09:49:52.653Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 124,
+        "463": 111,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T09:54:03Z"
     }
   ],
   "window_end_utc": "2026-11-19T00:00:00Z",
