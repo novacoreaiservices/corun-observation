@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-18T09:59:48Z",
+ "updated": "2026-11-18T10:59:47Z",
  "current": {
-  "ts": "2026-11-18T09:54:03Z",
+  "ts": "2026-11-18T10:59:38Z",
   "jobs": {
    "5070": {
-    "container": null,
-    "container_id": null,
-    "container_started_at": null,
-    "image": null,
-    "last_job_line": null,
+    "container": "running",
+    "container_id": "6462f5eb61d7",
+    "container_started_at": "2026-11-18T10:30:10.062121739Z",
+    "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+    "last_job_line": "0%|          | 0/8 [00:00<?, ?it/s,   Model Initializing ...  ]got prompt",
     "run_marker": null,
-    "working": false
+    "working": true
    },
    "570": {
     "container": null,
@@ -19,7 +19,7 @@
     "image": null,
     "last_job_line": null,
     "run_marker": null,
-    "working": false
+    "working": true
    },
    "870": {
     "container": null,
@@ -2000,6 +2000,435 @@
    "last_job_line": null,
    "run_marker": null,
    "working": false
+  },
+  {
+   "ts": "2026-11-18T10:00:37Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:00:37Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:00:37Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:03:56Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:03:56Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T10:03:56Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:09:07Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:09:07Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:09:07Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:15:19Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:15:19Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:15:19Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:19:54Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T10:19:54Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:19:54Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:26:08Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:26:08Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:26:08Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:29:50.503Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:29:50.503Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:29:50.503Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:33:54Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:33:54Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:33:54Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "6462f5eb61d7",
+   "container_started_at": "2026-11-18T10:30:10.062121739Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": "got prompt",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T10:39:05Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:39:05Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:39:05Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "6462f5eb61d7",
+   "container_started_at": "2026-11-18T10:30:10.062121739Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": "got prompt",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T10:44:27.809Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:44:27.809Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:44:27.809Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "6462f5eb61d7",
+   "container_started_at": "2026-11-18T10:30:10.062121739Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": "got prompt",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T10:50:12.694Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:50:12.694Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:50:12.694Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "6462f5eb61d7",
+   "container_started_at": "2026-11-18T10:30:10.062121739Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": "got prompt",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T10:53:46Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:53:46Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:53:46Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "6462f5eb61d7",
+   "container_started_at": "2026-11-18T10:30:10.062121739Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": "got prompt",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T10:59:38Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T10:59:38Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T10:59:38Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "6462f5eb61d7",
+   "container_started_at": "2026-11-18T10:30:10.062121739Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": "0%|          | 0/8 [00:00<?, ?it/s,   Model Initializing ...  ]got prompt",
+   "run_marker": null,
+   "working": true
   }
  ]
 }
