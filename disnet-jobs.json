@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-18T19:59:49Z",
+ "updated": "2026-11-18T20:59:50Z",
  "current": {
-  "ts": "2026-11-18T19:59:31Z",
+  "ts": "2026-11-18T20:59:09Z",
   "jobs": {
    "5070": {
-    "container": "running",
-    "container_id": "9c12349297de",
-    "container_started_at": "2026-11-18T19:32:40.895374333Z",
-    "image": "dispersednetwork/compute-comfyui:zimage_turbo",
-    "last_job_line": "Prompt executed in 6.76 seconds",
+    "container": null,
+    "container_id": null,
+    "container_started_at": null,
+    "image": null,
+    "last_job_line": null,
     "run_marker": null,
-    "working": true
+    "working": false
    },
    "570": {
     "container": null,
@@ -28,7 +28,7 @@
     "image": null,
     "last_job_line": null,
     "run_marker": null,
-    "working": true
+    "working": false
    }
   }
  },
@@ -5960,6 +5960,402 @@
    "last_job_line": "Prompt executed in 6.76 seconds",
    "run_marker": null,
    "working": true
+  },
+  {
+   "ts": "2026-11-18T20:05:31Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:05:31Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:05:31Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "9c12349297de",
+   "container_started_at": "2026-11-18T19:32:40.895374333Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": "got prompt",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T20:09:32Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:09:32Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T20:09:32Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "9c12349297de",
+   "container_started_at": "2026-11-18T19:32:40.895374333Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": "0%|          | 0/8 [00:00<?, ?it/s,   Model Initializing ...  ]got prompt",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T20:14:00Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:14:00Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:14:00Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "9c12349297de",
+   "container_started_at": "2026-11-18T19:32:40.895374333Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": "Prompt executed in 6.79 seconds",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T20:22:12Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:22:12Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:22:12Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "9c12349297de",
+   "container_started_at": "2026-11-18T19:32:40.895374333Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": "Prompt executed in 6.79 seconds",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T20:25:40.922Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:25:40.922Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:25:40.922Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": "Unknown error running Nvidia container, please check your configuration",
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:30:58.575Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:30:58.575Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:30:58.575Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": "Unknown error running Nvidia container, please check your configuration",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T20:34:05Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:34:05Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:34:05Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:39:04Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:39:04Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:39:04Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:43:58Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:43:58Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:43:58Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:50:51Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:50:51Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:50:51Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": "Unknown error running Nvidia container, please check your configuration",
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:53:58Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:53:58Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:53:58Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:59:09Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:59:09Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T20:59:09Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
   }
  ]
 }
