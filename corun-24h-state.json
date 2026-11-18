@@ -14,9 +14,9 @@
     }
   },
   "eta_watermark_ms": {
-    "5070": 1794987148355,
-    "570": 1794987845572,
-    "870": 1794988311974
+    "5070": 1794990692202,
+    "570": 1794991714216,
+    "870": 1794991982006
   },
   "jobs": [
     {
@@ -8341,6 +8341,202 @@
       "s": 39.311,
       "ts": "2026-11-18T07:51:51.974Z",
       "wf": "qwen_image_edit_2511_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 10.388,
+      "ts": "2026-11-18T07:54:43.399Z",
+      "wf": "qwen_image_edit_2511_fp8_lightning"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 34.551,
+      "ts": "2026-11-18T07:54:55.636Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 40.893,
+      "ts": "2026-11-18T07:55:58.825Z",
+      "wf": "qwen_image_edit_2511_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 68.056,
+      "ts": "2026-11-18T07:57:36.806Z",
+      "wf": "qwen_image_edit_2511_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 7.915,
+      "ts": "2026-11-18T07:58:53.909Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 8.103,
+      "ts": "2026-11-18T07:59:37.245Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 12.575,
+      "ts": "2026-11-18T08:00:41.238Z",
+      "wf": "qwen_image_edit_2511_fp8_lightning"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 8.735,
+      "ts": "2026-11-18T08:00:11.786Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 8.883,
+      "ts": "2026-11-18T08:01:31.977Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 8.904,
+      "ts": "2026-11-18T08:05:22.617Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 14.162,
+      "ts": "2026-11-18T08:04:14.609Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 40.861,
+      "ts": "2026-11-18T08:08:15.729Z",
+      "wf": "qwen_image_edit_2511_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 39.033,
+      "ts": "2026-11-18T08:10:22.915Z",
+      "wf": "qwen_image_edit_2511_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 6.648,
+      "ts": "2026-11-18T08:11:29.471Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 39.052,
+      "ts": "2026-11-18T08:12:19.204Z",
+      "wf": "qwen_image_edit_2511_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 10.069,
+      "ts": "2026-11-18T08:18:10.804Z",
+      "wf": "qwen_image_edit_2511_fp8_lightning"
+    },
+    {
+      "cls": "video",
+      "rig": "870",
+      "s": 47.002,
+      "ts": "2026-11-18T08:20:34.357Z",
+      "wf": "wan_v2.2-14b-fp8_t2v_lightx2v"
+    },
+    {
+      "cls": "video",
+      "rig": "870",
+      "s": 7.674,
+      "ts": "2026-11-18T08:27:19.722Z",
+      "wf": "wan_v2.2-14b-fp8_t2v_lightx2v"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 5.533,
+      "ts": "2026-11-18T08:31:32.202Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 18.238,
+      "ts": "2026-11-18T08:36:56.806Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 29.773,
+      "ts": "2026-11-18T08:39:00.277Z",
+      "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 19.244,
+      "ts": "2026-11-18T08:42:55.650Z",
+      "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 15.745,
+      "ts": "2026-11-18T08:46:50Z",
+      "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 15.694,
+      "ts": "2026-11-18T08:48:53Z",
+      "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 10.566,
+      "ts": "2026-11-18T08:48:34Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 19.469,
+      "ts": "2026-11-18T08:51:08.765Z",
+      "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 19.58,
+      "ts": "2026-11-18T08:51:50.940Z",
+      "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 19.515,
+      "ts": "2026-11-18T08:53:02.006Z",
+      "wf": "chroma-v48-detail-svd_fp8"
     }
   ],
   "samples": [
@@ -11103,6 +11299,570 @@
         "478": 7
       },
       "ts": "2026-11-18T07:54:28Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 98,
+        "463": 98,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "4c42461a8ced",
+          "container_started_at": "2026-11-18T07:40:17.775481115Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "got prompt",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T08:00:02Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": false,
+        "870": true
+      },
+      "complete": {
+        "462": 99,
+        "463": 101,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "4c42461a8ced",
+          "container_started_at": "2026-11-18T07:40:17.775481115Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "got prompt",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": true
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T08:05:29Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 101,
+        "463": 101,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "4c42461a8ced",
+          "container_started_at": "2026-11-18T07:40:17.775481115Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "got prompt",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T08:10:42Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 102,
+        "463": 101,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "4c42461a8ced",
+          "container_started_at": "2026-11-18T07:40:17.775481115Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "got prompt",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T08:14:46Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 103,
+        "463": 101,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "4c42461a8ced",
+          "container_started_at": "2026-11-18T07:40:17.775481115Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "Prompt executed in 13.98 seconds",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T08:19:39Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 104,
+        "463": 101,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "4c42461a8ced",
+          "container_started_at": "2026-11-18T07:40:17.775481115Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "Prompt executed in 13.98 seconds",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T08:27:36.853Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 104,
+        "463": 101,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "4c42461a8ced",
+          "container_started_at": "2026-11-18T07:40:17.775481115Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "Prompt executed in 13.98 seconds",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T08:29:16Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": true,
+        "870": false
+      },
+      "complete": {
+        "462": 104,
+        "463": 101,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "4c42461a8ced",
+          "container_started_at": "2026-11-18T07:40:17.775481115Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "Prompt executed in 13.98 seconds",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": true
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T08:34:53Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": false,
+        "870": true
+      },
+      "complete": {
+        "462": 105,
+        "463": 102,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": true
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T08:39:08Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 106,
+        "463": 102,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T08:44:39Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 107,
+        "463": 103,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T08:50:38Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 111,
+        "463": 103,
+        "478": 28
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T08:54:35Z"
     }
   ],
   "window_end_utc": "2026-11-19T00:00:00Z",
