@@ -1,23 +1,23 @@
 {
- "updated": "2026-11-18T10:59:47Z",
+ "updated": "2026-11-18T11:59:50Z",
  "current": {
-  "ts": "2026-11-18T10:59:38Z",
+  "ts": "2026-11-18T11:54:00Z",
   "jobs": {
    "5070": {
-    "container": "running",
-    "container_id": "6462f5eb61d7",
-    "container_started_at": "2026-11-18T10:30:10.062121739Z",
-    "image": "dispersednetwork/compute-comfyui:zimage_turbo",
-    "last_job_line": "0%|          | 0/8 [00:00<?, ?it/s,   Model Initializing ...  ]got prompt",
-    "run_marker": null,
-    "working": true
-   },
-   "570": {
     "container": null,
     "container_id": null,
     "container_started_at": null,
     "image": null,
     "last_job_line": null,
+    "run_marker": null,
+    "working": false
+   },
+   "570": {
+    "container": "running",
+    "container_id": "ce1d300c832b",
+    "container_started_at": "2026-11-18T11:01:53.267451675Z",
+    "image": "dispersednetwork/llama.cpp_basicauth_preload:latest",
+    "last_job_line": "[34735] 40.08.934.562 I slot      release: id  0 | task 4968 | stop processing: n_tokens = 61, truncated = 0",
     "run_marker": null,
     "working": true
    },
@@ -2429,6 +2429,369 @@
    "last_job_line": "0%|          | 0/8 [00:00<?, ?it/s,   Model Initializing ...  ]got prompt",
    "run_marker": null,
    "working": true
+  },
+  {
+   "ts": "2026-11-18T11:05:14.150Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T11:05:14.150Z",
+   "rig": "570",
+   "container": "running",
+   "container_id": "ce1d300c832b",
+   "container_started_at": "2026-11-18T11:01:53.267451675Z",
+   "image": "dispersednetwork/llama.cpp_basicauth_preload:latest",
+   "last_job_line": "[34735] 0.14.042.350 I slot print_timing: id  0 | task 2 | prompt processing, n_tokens =     61, progress = 0.94, t =   3.13 s / 19.52 token",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T11:05:14.150Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "6462f5eb61d7",
+   "container_started_at": "2026-11-18T10:30:10.062121739Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": "got prompt",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T11:09:03Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T11:09:03Z",
+   "rig": "570",
+   "container": "running",
+   "container_id": "ce1d300c832b",
+   "container_started_at": "2026-11-18T11:01:53.267451675Z",
+   "image": "dispersednetwork/llama.cpp_basicauth_preload:latest",
+   "last_job_line": "[34735] 5.11.237.002 I slot      release: id  0 | task 386 | stop processing: n_tokens = 61, truncated = 0",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T11:09:03Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "6462f5eb61d7",
+   "container_started_at": "2026-11-18T10:30:10.062121739Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": "got prompt",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T11:14:48Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T11:14:48Z",
+   "rig": "570",
+   "container": "running",
+   "container_id": "ce1d300c832b",
+   "container_started_at": "2026-11-18T11:01:53.267451675Z",
+   "image": "dispersednetwork/llama.cpp_basicauth_preload:latest",
+   "last_job_line": "[34735] 10.25.897.797 I slot      release: id  0 | task 895 | stop processing: n_tokens = 62, truncated = 0",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T11:14:48Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "6462f5eb61d7",
+   "container_started_at": "2026-11-18T10:30:10.062121739Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": "Prompt executed in 112.52 seconds",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T11:18:56.657Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T11:18:56.657Z",
+   "rig": "570",
+   "container": "running",
+   "container_id": "ce1d300c832b",
+   "container_started_at": "2026-11-18T11:01:53.267451675Z",
+   "image": "dispersednetwork/llama.cpp_basicauth_preload:latest",
+   "last_job_line": "[34735] 14.05.132.692 I slot      release: id  0 | task 1513 | stop processing: n_tokens = 57, truncated = 0",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T11:18:56.657Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "6462f5eb61d7",
+   "container_started_at": "2026-11-18T10:30:10.062121739Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": null,
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T11:23:50Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T11:23:50Z",
+   "rig": "570",
+   "container": "running",
+   "container_id": "ce1d300c832b",
+   "container_started_at": "2026-11-18T11:01:53.267451675Z",
+   "image": "dispersednetwork/llama.cpp_basicauth_preload:latest",
+   "last_job_line": "[34735] 20.23.011.230 I slot      release: id  0 | task 2312 | stop processing: n_tokens = 62, truncated = 0",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T11:23:50Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T11:29:31Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T11:29:31Z",
+   "rig": "570",
+   "container": "running",
+   "container_id": "ce1d300c832b",
+   "container_started_at": "2026-11-18T11:01:53.267451675Z",
+   "image": "dispersednetwork/llama.cpp_basicauth_preload:latest",
+   "last_job_line": "[34735] 25.43.940.672 I slot      release: id  0 | task 3058 | stop processing: n_tokens = 204, truncated = 0",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T11:29:31Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T11:33:55Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T11:33:55Z",
+   "rig": "570",
+   "container": "running",
+   "container_id": "ce1d300c832b",
+   "container_started_at": "2026-11-18T11:01:53.267451675Z",
+   "image": "dispersednetwork/llama.cpp_basicauth_preload:latest",
+   "last_job_line": "[34735] 30.50.065.363 I slot      release: id  0 | task 3652 | stop processing: n_tokens = 57, truncated = 0",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T11:33:55Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T11:39:58.821Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T11:39:58.821Z",
+   "rig": "570",
+   "container": "running",
+   "container_id": "ce1d300c832b",
+   "container_started_at": "2026-11-18T11:01:53.267451675Z",
+   "image": "dispersednetwork/llama.cpp_basicauth_preload:latest",
+   "last_job_line": "[34735] 34.53.016.083 I slot      release: id  0 | task 4180 | stop processing: n_tokens = 58, truncated = 0",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T11:39:58.821Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T11:44:07Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T11:44:07Z",
+   "rig": "570",
+   "container": "running",
+   "container_id": "ce1d300c832b",
+   "container_started_at": "2026-11-18T11:01:53.267451675Z",
+   "image": "dispersednetwork/llama.cpp_basicauth_preload:latest",
+   "last_job_line": "[34735] 40.08.934.562 I slot      release: id  0 | task 4968 | stop processing: n_tokens = 61, truncated = 0",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T11:44:07Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T11:50:08Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T11:50:08Z",
+   "rig": "570",
+   "container": "running",
+   "container_id": "ce1d300c832b",
+   "container_started_at": "2026-11-18T11:01:53.267451675Z",
+   "image": "dispersednetwork/llama.cpp_basicauth_preload:latest",
+   "last_job_line": "[34735] 40.08.934.562 I slot      release: id  0 | task 4968 | stop processing: n_tokens = 61, truncated = 0",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T11:50:08Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T11:54:00Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T11:54:00Z",
+   "rig": "570",
+   "container": "running",
+   "container_id": "ce1d300c832b",
+   "container_started_at": "2026-11-18T11:01:53.267451675Z",
+   "image": "dispersednetwork/llama.cpp_basicauth_preload:latest",
+   "last_job_line": "[34735] 40.08.934.562 I slot      release: id  0 | task 4968 | stop processing: n_tokens = 61, truncated = 0",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T11:54:00Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
   }
  ]
 }
