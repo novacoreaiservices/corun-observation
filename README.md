@@ -19,7 +19,13 @@ hours carry the heavy video models. No gate policy changes during the window.
     records: timestamp, rig, workflow/model name, class (image / video /
     audio) and inference seconds. This is what ties an error or a failed
     disNet job to the exact model that was co-running.
+  - `samples[].disnet_jobs` — per sample, what disNet job each node was
+    running: working flag, container status and start time, the latest
+    job/run marker found in the rig's logs, and the last job log line.
   - `baseline`, `eta_watermark_ms`, window start/end.
+- `disnet-jobs.json` — the running-jobs view derived from the state file:
+  `current` (the latest sample's per-node job state) plus the full
+  per-sample `history`.
 - `media-split-hourly.csv` — one row per worker per hour (backfilled from
   Nov 15 7:00 PM Toronto): image / video / audio job counts and inference
   seconds, and total busy seconds.
@@ -27,4 +33,4 @@ hours carry the heavy video models. No gate policy changes during the window.
 Data is read-only observation output. The timing records are a sample of
 jobs, not a complete ledger.
 
-Last upload: 2026-11-18T03:59:48Z
+Last upload: 2026-11-18T04:57:31Z
