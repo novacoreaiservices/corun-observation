@@ -1,8 +1,85 @@
 {
- "updated": "2026-11-18T04:59:47Z",
+ "updated": "2026-11-18T05:05:48Z",
  "current": {
-  "ts": "2026-11-18T04:55:48Z",
-  "jobs": {}
+  "ts": "2026-11-18T05:04:25Z",
+  "jobs": {
+   "5070": {
+    "container": "running",
+    "container_started_at": "2026-11-18T04:34:03.37643242Z",
+    "last_job_line": "got prompt",
+    "run_marker": null,
+    "working": true
+   },
+   "570": {
+    "container": null,
+    "container_started_at": null,
+    "last_job_line": null,
+    "run_marker": null,
+    "working": false
+   },
+   "870": {
+    "container": null,
+    "container_started_at": null,
+    "last_job_line": null,
+    "run_marker": null,
+    "working": false
+   }
+  }
  },
- "history": []
+ "history": [
+  {
+   "ts": "2026-11-18T05:00:30Z",
+   "rig": "870",
+   "container": "running",
+   "container_started_at": "2026-11-18T04:22:04.468390149Z",
+   "last_job_line": null,
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T05:00:30Z",
+   "rig": "570",
+   "container": null,
+   "container_started_at": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T05:00:30Z",
+   "rig": "5070",
+   "container": "running",
+   "container_started_at": "2026-11-18T04:34:03.37643242Z",
+   "last_job_line": "0%|          | 0/8 [00:00<?, ?it/s,   Model Initializing ...  ]got prompt",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T05:04:25Z",
+   "rig": "870",
+   "container": null,
+   "container_started_at": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T05:04:25Z",
+   "rig": "570",
+   "container": null,
+   "container_started_at": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T05:04:25Z",
+   "rig": "5070",
+   "container": "running",
+   "container_started_at": "2026-11-18T04:34:03.37643242Z",
+   "last_job_line": "got prompt",
+   "run_marker": null,
+   "working": true
+  }
+ ]
 }
