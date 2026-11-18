@@ -14,9 +14,9 @@
     }
   },
   "eta_watermark_ms": {
-    "5070": 1795038833321,
-    "570": 1795038876592,
-    "870": 1795038869698
+    "5070": 1795042749469,
+    "570": 1795041950428,
+    "870": 1795042713847
   },
   "jobs": [
     {
@@ -12459,151 +12459,788 @@
       "wf": "dark_beast_krea2_fp8"
     },
     {
+      "cls": "image",
+      "rig": "870",
+      "s": 7.663,
       "ts": "2026-11-18T21:48:25.844Z",
-      "rig": "870",
-      "wf": "dark_beast_krea2_fp8",
-      "cls": "image",
-      "s": 7.663
+      "wf": "dark_beast_krea2_fp8"
     },
     {
+      "cls": "image",
+      "rig": "870",
+      "s": 9.741,
       "ts": "2026-11-18T21:49:18.239Z",
-      "rig": "870",
-      "wf": "krea2_turbo_fp8_scaled",
-      "cls": "image",
-      "s": 9.741
+      "wf": "krea2_turbo_fp8_scaled"
     },
     {
+      "cls": "image",
+      "rig": "870",
+      "s": 8.301,
       "ts": "2026-11-18T21:49:41.709Z",
-      "rig": "870",
-      "wf": "krea2_turbo_fp8_scaled",
-      "cls": "image",
-      "s": 8.301
+      "wf": "krea2_turbo_fp8_scaled"
     },
     {
+      "cls": "image",
+      "rig": "870",
+      "s": 7.644,
       "ts": "2026-11-18T21:50:29.551Z",
-      "rig": "870",
-      "wf": "krea2_turbo_fp8_scaled",
-      "cls": "image",
-      "s": 7.644
+      "wf": "krea2_turbo_fp8_scaled"
     },
     {
+      "cls": "image",
+      "rig": "570",
+      "s": 8.052,
       "ts": "2026-11-18T21:45:02.735Z",
-      "rig": "570",
-      "wf": "dark_beast_krea2_fp8",
-      "cls": "image",
-      "s": 8.052
+      "wf": "dark_beast_krea2_fp8"
     },
     {
+      "cls": "image",
+      "rig": "570",
+      "s": 5.115,
       "ts": "2026-11-18T21:46:24.361Z",
-      "rig": "570",
-      "wf": "dark_beast_krea2_fp8",
-      "cls": "image",
-      "s": 5.115
+      "wf": "dark_beast_krea2_fp8"
     },
     {
+      "cls": "image",
+      "rig": "570",
+      "s": 8.77,
       "ts": "2026-11-18T21:46:38.679Z",
-      "rig": "570",
-      "wf": "dark_beast_krea2_fp8",
-      "cls": "image",
-      "s": 8.77
+      "wf": "dark_beast_krea2_fp8"
     },
     {
+      "cls": "image",
+      "rig": "570",
+      "s": 2.184,
       "ts": "2026-11-18T21:47:41.430Z",
-      "rig": "570",
-      "wf": "dark_beast_krea2_fp8",
-      "cls": "image",
-      "s": 2.184
+      "wf": "dark_beast_krea2_fp8"
     },
     {
+      "cls": "image",
+      "rig": "570",
+      "s": 8.79,
       "ts": "2026-11-18T21:48:27.032Z",
-      "rig": "570",
-      "wf": "dark_beast_krea2_fp8",
-      "cls": "image",
-      "s": 8.79
+      "wf": "dark_beast_krea2_fp8"
     },
     {
+      "cls": "image",
+      "rig": "570",
+      "s": 8.043,
       "ts": "2026-11-18T21:48:40.388Z",
-      "rig": "570",
-      "wf": "dark_beast_krea2_fp8",
-      "cls": "image",
-      "s": 8.043
+      "wf": "dark_beast_krea2_fp8"
     },
     {
+      "cls": "image",
+      "rig": "570",
+      "s": 8.403,
       "ts": "2026-11-18T21:49:04.847Z",
-      "rig": "570",
-      "wf": "dark_beast_krea2_fp8",
-      "cls": "image",
-      "s": 8.403
+      "wf": "dark_beast_krea2_fp8"
     },
     {
+      "cls": "image",
+      "rig": "570",
+      "s": 6.364,
       "ts": "2026-11-18T21:49:57.867Z",
-      "rig": "570",
-      "wf": "dark_beast_krea2_fp8",
-      "cls": "image",
-      "s": 6.364
+      "wf": "dark_beast_krea2_fp8"
     },
     {
+      "cls": "image",
+      "rig": "570",
+      "s": 6.69,
       "ts": "2026-11-18T21:50:34.683Z",
-      "rig": "570",
-      "wf": "dark_beast_krea2_fp8",
-      "cls": "image",
-      "s": 6.69
+      "wf": "dark_beast_krea2_fp8"
     },
     {
+      "cls": "image",
+      "rig": "5070",
+      "s": 28.674,
       "ts": "2026-11-18T21:49:49.590Z",
-      "rig": "5070",
-      "wf": "dark_beast_z_image_turbo_v9_bf16",
-      "cls": "image",
-      "s": 28.674
+      "wf": "dark_beast_z_image_turbo_v9_bf16"
     },
     {
+      "cls": "image",
+      "rig": "870",
+      "s": 9.12,
       "ts": "2026-11-18T21:51:15.238Z",
-      "rig": "870",
-      "wf": "krea2_turbo_fp8_scaled",
-      "cls": "image",
-      "s": 9.12
+      "wf": "krea2_turbo_fp8_scaled"
     },
     {
+      "cls": "image",
+      "rig": "870",
+      "s": 8.219,
       "ts": "2026-11-18T21:52:05.342Z",
-      "rig": "870",
-      "wf": "krea2_turbo_fp8_scaled",
-      "cls": "image",
-      "s": 8.219
+      "wf": "krea2_turbo_fp8_scaled"
     },
     {
+      "cls": "image",
+      "rig": "870",
+      "s": 7.481,
       "ts": "2026-11-18T21:52:47.733Z",
-      "rig": "870",
-      "wf": "krea2_turbo_fp8_scaled",
-      "cls": "image",
-      "s": 7.481
+      "wf": "krea2_turbo_fp8_scaled"
     },
     {
+      "cls": "image",
+      "rig": "870",
+      "s": 19.423,
       "ts": "2026-11-18T21:54:29.698Z",
-      "rig": "870",
-      "wf": "krea2_identity_edit_v1_2",
-      "cls": "image",
-      "s": 19.423
+      "wf": "krea2_identity_edit_v1_2"
     },
     {
+      "cls": "image",
+      "rig": "570",
+      "s": 6.288,
       "ts": "2026-11-18T21:51:10.399Z",
-      "rig": "570",
-      "wf": "dark_beast_krea2_fp8",
-      "cls": "image",
-      "s": 6.288
+      "wf": "dark_beast_krea2_fp8"
     },
     {
+      "cls": "image",
+      "rig": "570",
+      "s": 8.978,
       "ts": "2026-11-18T21:54:36.592Z",
-      "rig": "570",
-      "wf": "dark_beast_krea2_fp8",
-      "cls": "image",
-      "s": 8.978
+      "wf": "dark_beast_krea2_fp8"
     },
     {
-      "ts": "2026-11-18T21:53:53.321Z",
-      "rig": "5070",
-      "wf": "krea2_identity_edit_v1_2",
       "cls": "image",
-      "s": 68.2
+      "rig": "5070",
+      "s": 68.2,
+      "ts": "2026-11-18T21:53:53.321Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 50.305,
+      "ts": "2026-11-18T21:55:00.490Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 2.328,
+      "ts": "2026-11-18T21:55:13.230Z",
+      "wf": "dark_beast_krea2_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 15.853,
+      "ts": "2026-11-18T21:55:42.915Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 14.51,
+      "ts": "2026-11-18T21:56:05.729Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 8.774,
+      "ts": "2026-11-18T21:57:12.765Z",
+      "wf": "dark_beast_krea2_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 11.719,
+      "ts": "2026-11-18T21:57:25.893Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 9.149,
+      "ts": "2026-11-18T21:58:14.426Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 6.103,
+      "ts": "2026-11-18T21:59:30.879Z",
+      "wf": "dark_beast_krea2_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 10.414,
+      "ts": "2026-11-18T21:59:55.908Z",
+      "wf": "dark_beast_krea2_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 39.291,
+      "ts": "2026-11-18T22:00:02.133Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 3.872,
+      "ts": "2026-11-18T22:02:13.082Z",
+      "wf": "dark_beast_krea2_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 9.022,
+      "ts": "2026-11-18T22:02:54.188Z",
+      "wf": "dark_beast_krea2_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 9.321,
+      "ts": "2026-11-18T22:04:15.961Z",
+      "wf": "dark_beast_krea2_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 33.772,
+      "ts": "2026-11-18T22:01:33.128Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 49.934,
+      "ts": "2026-11-18T22:03:22.345Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 48.704,
+      "ts": "2026-11-18T22:04:34.528Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "video",
+      "rig": "870",
+      "s": 52.129,
+      "ts": "2026-11-18T22:09:22.719Z",
+      "wf": "relayvsr_x4_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 28.959,
+      "ts": "2026-11-18T22:11:21.432Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 27.044,
+      "ts": "2026-11-18T22:13:26.263Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 4.877,
+      "ts": "2026-11-18T22:13:46.702Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 8.974,
+      "ts": "2026-11-18T22:10:54.005Z",
+      "wf": "dark_beast_krea2_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 8.859,
+      "ts": "2026-11-18T22:13:09.190Z",
+      "wf": "dark_beast_krea2_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 25.203,
+      "ts": "2026-11-18T22:10:55.459Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 35.172,
+      "ts": "2026-11-18T22:13:41.649Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 26.086,
+      "ts": "2026-11-18T22:15:10.903Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 4.964,
+      "ts": "2026-11-18T22:15:37.319Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 13.558,
+      "ts": "2026-11-18T22:19:19.010Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 2.88,
+      "ts": "2026-11-18T22:15:45.106Z",
+      "wf": "dark_beast_krea2_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 7.927,
+      "ts": "2026-11-18T22:16:42.639Z",
+      "wf": "dark_beast_krea2_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 12.476,
+      "ts": "2026-11-18T22:16:52.838Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 23.201,
+      "ts": "2026-11-18T22:19:44.480Z",
+      "wf": "chroma-v.46-flash_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 29.317,
+      "ts": "2026-11-18T22:21:01.457Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 12.631,
+      "ts": "2026-11-18T22:21:30.354Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 13.603,
+      "ts": "2026-11-18T22:22:17.803Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 28.179,
+      "ts": "2026-11-18T22:22:40.871Z",
+      "wf": "moss_image_sft_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 12.474,
+      "ts": "2026-11-18T22:22:45.145Z",
+      "wf": "chroma-v.46-flash_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 12.552,
+      "ts": "2026-11-18T22:23:05.511Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 18.003,
+      "ts": "2026-11-18T22:23:14.734Z",
+      "wf": "moss_image_sft_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 11.897,
+      "ts": "2026-11-18T22:23:39.751Z",
+      "wf": "chroma-v.46-flash_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 13.566,
+      "ts": "2026-11-18T22:23:52.844Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 17.226,
+      "ts": "2026-11-18T22:24:39.179Z",
+      "wf": "moss_image_sft_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 26.115,
+      "ts": "2026-11-18T22:27:03.076Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 20.175,
+      "ts": "2026-11-18T22:28:08.823Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 19.411,
+      "ts": "2026-11-18T22:28:56.150Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 17.221,
+      "ts": "2026-11-18T22:25:51.365Z",
+      "wf": "moss_image_sft_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 35.096,
+      "ts": "2026-11-18T22:30:53.747Z",
+      "wf": "dark_beast_krea2_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 53.714,
+      "ts": "2026-11-18T22:35:34.279Z",
+      "wf": "qwen_image_edit_2511_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 5.457,
+      "ts": "2026-11-18T22:43:11.305Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 1.778,
+      "ts": "2026-11-18T22:43:14.958Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 7.271,
+      "ts": "2026-11-18T22:43:25.603Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 2.468,
+      "ts": "2026-11-18T22:43:29.353Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 7.463,
+      "ts": "2026-11-18T22:43:43.889Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 5.257,
+      "ts": "2026-11-18T22:44:12.765Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 4.439,
+      "ts": "2026-11-18T22:44:21.388Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 7.265,
+      "ts": "2026-11-18T22:44:37.784Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 5.701,
+      "ts": "2026-11-18T22:44:44.232Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 4.354,
+      "ts": "2026-11-18T22:45:01.927Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 7.19,
+      "ts": "2026-11-18T22:45:14.912Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 7.402,
+      "ts": "2026-11-18T22:48:40.188Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 3.608,
+      "ts": "2026-11-18T22:49:06.334Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 3.575,
+      "ts": "2026-11-18T22:49:26.278Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 3.568,
+      "ts": "2026-11-18T22:49:43.301Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 3.681,
+      "ts": "2026-11-18T22:50:46.730Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 3.53,
+      "ts": "2026-11-18T22:51:21.660Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 3.601,
+      "ts": "2026-11-18T22:52:01.778Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 3.613,
+      "ts": "2026-11-18T22:52:25.796Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "video",
+      "rig": "570",
+      "s": 291.771,
+      "ts": "2026-11-18T22:45:50.428Z",
+      "wf": "minimax-h3-fl2va-fp8_i2v_balanced"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 39.786,
+      "ts": "2026-11-18T22:46:40.090Z",
+      "wf": "z_image_bf16"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 13.953,
+      "ts": "2026-11-18T22:52:12.180Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 11.92,
+      "ts": "2026-11-18T22:52:37.098Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 6.951,
+      "ts": "2026-11-18T22:52:59.180Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 3.758,
+      "ts": "2026-11-18T22:53:24.028Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 3.556,
+      "ts": "2026-11-18T22:53:41.819Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 3.633,
+      "ts": "2026-11-18T22:54:22.030Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 6.315,
+      "ts": "2026-11-18T22:54:52.806Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 6.21,
+      "ts": "2026-11-18T22:55:18.700Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 6.125,
+      "ts": "2026-11-18T22:55:27.636Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 6.193,
+      "ts": "2026-11-18T22:55:40.699Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 6.264,
+      "ts": "2026-11-18T22:56:01.812Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 6.221,
+      "ts": "2026-11-18T22:56:15.029Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 3.579,
+      "ts": "2026-11-18T22:56:22.403Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 6.365,
+      "ts": "2026-11-18T22:56:25.184Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 6.226,
+      "ts": "2026-11-18T22:56:41.126Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 6.173,
+      "ts": "2026-11-18T22:57:06.137Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 32.594,
+      "ts": "2026-11-18T22:57:37.510Z",
+      "wf": "moss_image_sft_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 9.903,
+      "ts": "2026-11-18T22:57:38.906Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 16.148,
+      "ts": "2026-11-18T22:58:02.183Z",
+      "wf": "moss_image_sft_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 6.259,
+      "ts": "2026-11-18T22:58:26.548Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 16.791,
+      "ts": "2026-11-18T22:58:33.847Z",
+      "wf": "moss_image_sft_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 6.332,
+      "ts": "2026-11-18T22:58:50.589Z",
+      "wf": "one_obsession_v22_fp16"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 6.237,
+      "ts": "2026-11-18T22:59:09.469Z",
+      "wf": "one_obsession_v22_fp16"
     }
   ],
   "samples": [
@@ -23123,99 +23760,616 @@
       "ts": "2026-11-18T21:44:18Z"
     },
     {
-      "ts": "2026-11-18T21:50:54Z",
       "busy": {
-        "870": false,
+        "5070": false,
         "570": false,
-        "5070": false
-      },
-      "disnet_jobs": {
-        "870": {
-          "working": false,
-          "container": null,
-          "container_started_at": null,
-          "image": null,
-          "container_id": null,
-          "run_marker": null,
-          "last_job_line": null
-        },
-        "570": {
-          "working": false,
-          "container": null,
-          "container_started_at": null,
-          "image": null,
-          "container_id": null,
-          "run_marker": null,
-          "last_job_line": null
-        },
-        "5070": {
-          "working": false,
-          "container": null,
-          "container_started_at": null,
-          "image": null,
-          "container_id": null,
-          "run_marker": null,
-          "last_job_line": null
-        }
+        "870": false
       },
       "complete": {
         "462": 369,
         "463": 282,
         "478": 83
       },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
       "errors": {
         "462": 0,
         "463": 0,
         "478": 12
-      }
+      },
+      "ts": "2026-11-18T21:50:54Z"
     },
     {
-      "ts": "2026-11-18T21:54:52.557Z",
       "busy": {
-        "870": true,
+        "5070": false,
         "570": false,
-        "5070": false
-      },
-      "disnet_jobs": {
-        "870": {
-          "working": true,
-          "container": null,
-          "container_started_at": null,
-          "image": null,
-          "container_id": null,
-          "run_marker": null,
-          "last_job_line": null
-        },
-        "570": {
-          "working": false,
-          "container": null,
-          "container_started_at": null,
-          "image": null,
-          "container_id": null,
-          "run_marker": null,
-          "last_job_line": null
-        },
-        "5070": {
-          "working": false,
-          "container": null,
-          "container_started_at": null,
-          "image": null,
-          "container_id": null,
-          "run_marker": null,
-          "last_job_line": "Unknown error running Nvidia container, please check your configuration"
-        }
+        "870": true
       },
       "complete": {
         "462": 376,
         "463": 287,
         "478": 86
       },
+      "counters_source": "curl retry after urllib IncompleteRead",
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": "Unknown error running Nvidia container, please check your configuration",
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": true
+        }
+      },
       "errors": {
         "462": 0,
         "463": 0,
         "478": 12
       },
-      "counters_source": "curl retry after urllib IncompleteRead"
+      "ts": "2026-11-18T21:54:52.557Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 379,
+        "463": 290,
+        "478": 87
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 12
+      },
+      "ts": "2026-11-18T22:00:41Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 379,
+        "463": 292,
+        "478": 89
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": "Unknown error running Nvidia container, please check your configuration",
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 12
+      },
+      "ts": "2026-11-18T22:04:26.237Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 379,
+        "463": 292,
+        "478": 90
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 12
+      },
+      "ts": "2026-11-18T22:09:16Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 383,
+        "463": 294,
+        "478": 92
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": "Unknown error running Nvidia container, please check your configuration",
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 12
+      },
+      "ts": "2026-11-18T22:14:08.350Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 385,
+        "463": 296,
+        "478": 93
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 12
+      },
+      "ts": "2026-11-18T22:22:44Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 391,
+        "463": 299,
+        "478": 96
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 12
+      },
+      "ts": "2026-11-18T22:24:50Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 394,
+        "463": 300,
+        "478": 96
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": "Unknown error running Nvidia container, please check your configuration",
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 12
+      },
+      "ts": "2026-11-18T22:29:25.380Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 394,
+        "463": 300,
+        "478": 97
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": "Unknown error running Nvidia container, please check your configuration",
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 12
+      },
+      "ts": "2026-11-18T22:36:22.892Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": true,
+        "870": false
+      },
+      "complete": {
+        "462": "410",
+        "463": "301",
+        "478": "98"
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": true
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": "12"
+      },
+      "ts": "2026-11-18T22:51:36Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 416,
+        "463": 301,
+        "478": 101
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 12
+      },
+      "ts": "2026-11-18T22:54:09Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 421,
+        "463": 301,
+        "478": 113
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 12
+      },
+      "ts": "2026-11-18T22:59:07Z"
     }
   ],
   "window_end_utc": "2026-11-19T00:00:00Z",
