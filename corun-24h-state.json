@@ -14,9 +14,9 @@
     }
   },
   "eta_watermark_ms": {
-    "5070": 1795027861040,
-    "570": 1795028063348,
-    "870": 1795027938218
+    "5070": 1795030980569,
+    "570": 1795030292352,
+    "870": 1795031906553
   },
   "jobs": [
     {
@@ -10777,6 +10777,405 @@
       "s": 11.393,
       "ts": "2026-11-18T18:54:23.348Z",
       "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "video",
+      "rig": "570",
+      "s": 5.669,
+      "ts": "2026-11-18T18:59:54.910Z",
+      "wf": "rtx_vsr_pro"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 16.563,
+      "ts": "2026-11-18T19:00:44.774Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 29.744,
+      "ts": "2026-11-18T19:04:14.162Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 19.415,
+      "ts": "2026-11-18T19:09:11.911Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 22.946,
+      "ts": "2026-11-18T19:04:55.322Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 14.746,
+      "ts": "2026-11-18T19:06:12.483Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 18.479,
+      "ts": "2026-11-18T19:07:08.124Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 13.958,
+      "ts": "2026-11-18T19:08:02.284Z",
+      "wf": "chroma1-hd_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 4.662,
+      "ts": "2026-11-18T19:09:39.273Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 18.768,
+      "ts": "2026-11-18T19:10:33.616Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 4.666,
+      "ts": "2026-11-18T19:11:14.528Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 3.271,
+      "ts": "2026-11-18T19:11:51.158Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 4.364,
+      "ts": "2026-11-18T19:12:03.638Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 4.922,
+      "ts": "2026-11-18T19:12:19.930Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 15.282,
+      "ts": "2026-11-18T19:12:48.511Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 26.826,
+      "ts": "2026-11-18T19:12:59.935Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 30.213,
+      "ts": "2026-11-18T19:13:03.800Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 8.572,
+      "ts": "2026-11-18T19:20:03.060Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 2.69,
+      "ts": "2026-11-18T19:30:00.435Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 11.802,
+      "ts": "2026-11-18T19:20:06.329Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 17.95,
+      "ts": "2026-11-18T19:26:42.062Z",
+      "wf": "dark_beast_z_image_turbo_v9_bf16"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 4.359,
+      "ts": "2026-11-18T19:28:16.140Z",
+      "wf": "dark_beast_z_image_turbo_v9_bf16"
+    },
+    {
+      "cls": "video",
+      "rig": "570",
+      "s": 152.46,
+      "ts": "2026-11-18T19:31:32.352Z",
+      "wf": "minimax-h3-fastvideo-int8_i2v_turbo"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 31.133,
+      "ts": "2026-11-18T19:20:25.631Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 7.456,
+      "ts": "2026-11-18T19:34:47.084Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 5.812,
+      "ts": "2026-11-18T19:35:17.549Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 6.839,
+      "ts": "2026-11-18T19:36:14.836Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 19.598,
+      "ts": "2026-11-18T19:37:14.111Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 133.437,
+      "ts": "2026-11-18T19:37:27.288Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 28.383,
+      "ts": "2026-11-18T19:41:54.147Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 27.748,
+      "ts": "2026-11-18T19:42:44.503Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 102.245,
+      "ts": "2026-11-18T19:43:00.569Z",
+      "wf": "dark_beast_krea2_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 25.698,
+      "ts": "2026-11-18T19:46:22.522Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 13.247,
+      "ts": "2026-11-18T19:47:38.005Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 25.692,
+      "ts": "2026-11-18T19:50:05.788Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 11.172,
+      "ts": "2026-11-18T19:50:30.198Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 11.982,
+      "ts": "2026-11-18T19:51:03.746Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 2.451,
+      "ts": "2026-11-18T19:51:23.284Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 2.224,
+      "ts": "2026-11-18T19:51:31.056Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 2.506,
+      "ts": "2026-11-18T19:52:04.465Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 2.47,
+      "ts": "2026-11-18T19:52:32.511Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 2.392,
+      "ts": "2026-11-18T19:52:59.409Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 2.548,
+      "ts": "2026-11-18T19:53:14.562Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 2.937,
+      "ts": "2026-11-18T19:53:26.936Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 2.566,
+      "ts": "2026-11-18T19:53:37.622Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 3.104,
+      "ts": "2026-11-18T19:53:49.181Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 2.321,
+      "ts": "2026-11-18T19:54:16.420Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 2.549,
+      "ts": "2026-11-18T19:54:35.662Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 2.609,
+      "ts": "2026-11-18T19:54:55.775Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 2.535,
+      "ts": "2026-11-18T19:55:24.882Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 3.254,
+      "ts": "2026-11-18T19:56:31.781Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 3.185,
+      "ts": "2026-11-18T19:57:07.833Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 2.498,
+      "ts": "2026-11-18T19:57:18.126Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 2.483,
+      "ts": "2026-11-18T19:57:49.189Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 2.416,
+      "ts": "2026-11-18T19:58:13.170Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 2.646,
+      "ts": "2026-11-18T19:58:21.422Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 2.78,
+      "ts": "2026-11-18T19:58:26.553Z",
+      "wf": "moss_image_sft_dmd8_int8_convrot"
     }
   ],
   "samples": [
@@ -19743,6 +20142,570 @@
         "478": 11
       },
       "ts": "2026-11-18T18:59:16Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": false,
+        "870": true
+      },
+      "complete": {
+        "462": 216,
+        "463": 229,
+        "478": 55
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": "running",
+          "container_id": "b09c6440b583",
+          "container_started_at": "2026-11-18T18:36:52.438364922Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "38%|\u2588\u2588\u2588\u258a      | 3/8 [00:00<00:01,  3.09it/s]got prompt",
+          "run_marker": null,
+          "working": true
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 11
+      },
+      "ts": "2026-11-18T19:04:32Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": false,
+        "870": true
+      },
+      "complete": {
+        "462": 216,
+        "463": 233,
+        "478": 55
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": "running",
+          "container_id": "b09c6440b583",
+          "container_started_at": "2026-11-18T18:36:52.438364922Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "0%|          | 0/8 [00:00<?, ?it/s,   Model Initializing ...  ]got prompt",
+          "run_marker": null,
+          "working": true
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 11
+      },
+      "ts": "2026-11-18T19:11:48Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": true,
+        "870": true
+      },
+      "complete": {
+        "462": 218,
+        "463": 239,
+        "478": 56
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": true
+        },
+        "870": {
+          "container": "running",
+          "container_id": "b09c6440b583",
+          "container_started_at": "2026-11-18T18:36:52.438364922Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "Prompt executed in 2.91 seconds",
+          "run_marker": null,
+          "working": true
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 11
+      },
+      "ts": "2026-11-18T19:14:09Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": false,
+        "870": true
+      },
+      "complete": {
+        "462": 218,
+        "463": 240,
+        "478": 56
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": "running",
+          "container_id": "b09c6440b583",
+          "container_started_at": "2026-11-18T18:36:52.438364922Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "Prompt executed in 2.91 seconds",
+          "run_marker": null,
+          "working": true
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 11
+      },
+      "ts": "2026-11-18T19:19:06Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 219,
+        "463": 241,
+        "478": 57
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 11
+      },
+      "ts": "2026-11-18T19:31:52.480Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 220,
+        "463": 244,
+        "478": 57
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "9c12349297de",
+          "container_started_at": "2026-11-18T19:32:40.895374333Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "got prompt",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 11
+      },
+      "ts": "2026-11-18T19:34:59Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 221,
+        "463": 244,
+        "478": 57
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "9c12349297de",
+          "container_started_at": "2026-11-18T19:32:40.895374333Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "Unknown error running Nvidia container, please check your configuration",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 11
+      },
+      "ts": "2026-11-18T19:36:46.955Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 223,
+        "463": 244,
+        "478": 58
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "9c12349297de",
+          "container_started_at": "2026-11-18T19:32:40.895374333Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "got prompt",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 11
+      },
+      "ts": "2026-11-18T19:39:08Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 225,
+        "463": 244,
+        "478": 59
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "9c12349297de",
+          "container_started_at": "2026-11-18T19:32:40.895374333Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "Unknown error running Nvidia container, please check your configuration",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 11
+      },
+      "ts": "2026-11-18T19:44:10.964Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": true,
+        "870": false
+      },
+      "complete": {
+        "462": 227,
+        "463": 244,
+        "478": 59
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "9c12349297de",
+          "container_started_at": "2026-11-18T19:32:40.895374333Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "got prompt",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": true
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 12
+      },
+      "ts": "2026-11-18T19:55:02.541Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": false,
+        "870": false
+      },
+      "complete": {
+        "462": 247,
+        "463": 244,
+        "478": 59
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "9c12349297de",
+          "container_started_at": "2026-11-18T19:32:40.895374333Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "Prompt executed in 6.75 seconds",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 12
+      },
+      "ts": "2026-11-18T19:57:54Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": false,
+        "870": true
+      },
+      "complete": {
+        "462": 250,
+        "463": 244,
+        "478": 59
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "9c12349297de",
+          "container_started_at": "2026-11-18T19:32:40.895374333Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "Prompt executed in 6.76 seconds",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": true
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 12
+      },
+      "ts": "2026-11-18T19:59:31Z"
     }
   ],
   "window_end_utc": "2026-11-19T00:00:00Z",
