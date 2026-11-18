@@ -33,4 +33,4 @@ hours carry the heavy video models. No gate policy changes during the window.
 Data is read-only observation output. The timing records are a sample of
 jobs, not a complete ledger.
 
-Last upload: 2026-11-18T05:05:48Z
+Last upload: 2026-11-18T05:06:03Z
