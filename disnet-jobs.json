@@ -1,34 +1,34 @@
 {
- "updated": "2026-11-18T21:59:52Z",
+ "updated": "2026-11-18T22:59:57Z",
  "current": {
-  "ts": "2026-11-18T21:54:52.557Z",
+  "ts": "2026-11-18T22:59:07Z",
   "jobs": {
-   "870": {
-    "working": true,
+   "5070": {
     "container": null,
+    "container_id": null,
     "container_started_at": null,
     "image": null,
-    "container_id": null,
+    "last_job_line": null,
     "run_marker": null,
-    "last_job_line": null
+    "working": false
    },
    "570": {
-    "working": false,
     "container": null,
+    "container_id": null,
     "container_started_at": null,
     "image": null,
-    "container_id": null,
+    "last_job_line": null,
     "run_marker": null,
-    "last_job_line": null
+    "working": false
    },
-   "5070": {
-    "working": false,
+   "870": {
     "container": null,
+    "container_id": null,
     "container_started_at": null,
     "image": null,
-    "container_id": null,
+    "last_job_line": null,
     "run_marker": null,
-    "last_job_line": "Unknown error running Nvidia container, please check your configuration"
+    "working": false
    }
   }
  },
@@ -6657,68 +6657,431 @@
   {
    "ts": "2026-11-18T21:50:54Z",
    "rig": "870",
-   "working": false,
    "container": null,
+   "container_id": null,
    "container_started_at": null,
    "image": null,
-   "container_id": null,
+   "last_job_line": null,
    "run_marker": null,
-   "last_job_line": null
+   "working": false
   },
   {
    "ts": "2026-11-18T21:50:54Z",
    "rig": "570",
-   "working": false,
    "container": null,
+   "container_id": null,
    "container_started_at": null,
    "image": null,
-   "container_id": null,
+   "last_job_line": null,
    "run_marker": null,
-   "last_job_line": null
+   "working": false
   },
   {
    "ts": "2026-11-18T21:50:54Z",
    "rig": "5070",
-   "working": false,
    "container": null,
+   "container_id": null,
    "container_started_at": null,
    "image": null,
-   "container_id": null,
+   "last_job_line": null,
    "run_marker": null,
-   "last_job_line": null
+   "working": false
   },
   {
    "ts": "2026-11-18T21:54:52.557Z",
    "rig": "870",
-   "working": true,
    "container": null,
+   "container_id": null,
    "container_started_at": null,
    "image": null,
-   "container_id": null,
+   "last_job_line": null,
    "run_marker": null,
-   "last_job_line": null
+   "working": true
   },
   {
    "ts": "2026-11-18T21:54:52.557Z",
    "rig": "570",
-   "working": false,
    "container": null,
+   "container_id": null,
    "container_started_at": null,
    "image": null,
-   "container_id": null,
+   "last_job_line": null,
    "run_marker": null,
-   "last_job_line": null
+   "working": false
   },
   {
    "ts": "2026-11-18T21:54:52.557Z",
    "rig": "5070",
-   "working": false,
    "container": null,
+   "container_id": null,
    "container_started_at": null,
    "image": null,
-   "container_id": null,
+   "last_job_line": "Unknown error running Nvidia container, please check your configuration",
    "run_marker": null,
-   "last_job_line": "Unknown error running Nvidia container, please check your configuration"
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:00:41Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:00:41Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:00:41Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:04:26.237Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:04:26.237Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:04:26.237Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": "Unknown error running Nvidia container, please check your configuration",
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:09:16Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:09:16Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:09:16Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:14:08.350Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:14:08.350Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:14:08.350Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": "Unknown error running Nvidia container, please check your configuration",
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:22:44Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:22:44Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:22:44Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:24:50Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:24:50Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:24:50Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:29:25.380Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:29:25.380Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:29:25.380Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": "Unknown error running Nvidia container, please check your configuration",
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:36:22.892Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:36:22.892Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:36:22.892Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": "Unknown error running Nvidia container, please check your configuration",
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:51:36Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:51:36Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T22:51:36Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:54:09Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:54:09Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:54:09Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:59:07Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:59:07Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T22:59:07Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
   }
  ]
 }
