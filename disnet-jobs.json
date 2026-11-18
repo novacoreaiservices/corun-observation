@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-18T15:59:52Z",
+ "updated": "2026-11-18T16:59:50Z",
  "current": {
-  "ts": "2026-11-18T15:57:45.042Z",
+  "ts": "2026-11-18T16:59:20Z",
   "jobs": {
    "5070": {
     "container": "running",
-    "container_id": "2fb9424be709",
-    "container_started_at": "2026-11-18T15:54:00.92403738Z",
+    "container_id": "5aec9c6fca23",
+    "container_started_at": "2026-11-18T16:53:40.612460592Z",
     "image": "dispersednetwork/compute-comfyui:zimage_turbo",
-    "last_job_line": "Assets scan(roots=['models']) completed in 0.032s (created=17, skipped_existing=0, orphans_pruned=0, total_seen=17)",
+    "last_job_line": "got prompt",
     "run_marker": null,
     "working": true
    },
@@ -19,7 +19,7 @@
     "image": null,
     "last_job_line": null,
     "run_marker": null,
-    "working": true
+    "working": false
    },
    "870": {
     "container": null,
@@ -28,7 +28,7 @@
     "image": null,
     "last_job_line": null,
     "run_marker": null,
-    "working": false
+    "working": true
    }
   }
  },
@@ -4341,6 +4341,435 @@
    "container_started_at": "2026-11-18T15:54:00.92403738Z",
    "image": "dispersednetwork/compute-comfyui:zimage_turbo",
    "last_job_line": "Assets scan(roots=['models']) completed in 0.032s (created=17, skipped_existing=0, orphans_pruned=0, total_seen=17)",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T15:59:52Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T15:59:52Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T15:59:52Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "2fb9424be709",
+   "container_started_at": "2026-11-18T15:54:00.92403738Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": "0%|          | 0/8 [00:00<?, ?it/s,   Model Initializing ...  ]got prompt",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T16:04:19.536Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:04:19.536Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:04:19.536Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "2fb9424be709",
+   "container_started_at": "2026-11-18T15:54:00.92403738Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": null,
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T16:10:19Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:10:19Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:10:19Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "2fb9424be709",
+   "container_started_at": "2026-11-18T15:54:00.92403738Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": "got prompt",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T16:17:20.912Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:17:20.912Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:17:20.912Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "2fb9424be709",
+   "container_started_at": "2026-11-18T15:54:00.92403738Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": "Prompt executed in 6.68 seconds",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T16:19:58.464Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:19:58.464Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:19:58.464Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "2fb9424be709",
+   "container_started_at": "2026-11-18T15:54:00.92403738Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": null,
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T16:23:56Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:23:56Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:23:56Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "2fb9424be709",
+   "container_started_at": "2026-11-18T15:54:00.92403738Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": "Prompt executed in 6.71 seconds",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T16:29:12Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:29:12Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:29:12Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "2fb9424be709",
+   "container_started_at": "2026-11-18T15:54:00.92403738Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": "0%|          | 0/8 [00:00<?, ?it/s,   Model Initializing ...  ]got prompt",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T16:33:51.475Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:33:51.475Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:33:51.475Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "2fb9424be709",
+   "container_started_at": "2026-11-18T15:54:00.92403738Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": null,
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T16:40:20Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:40:20Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:40:20Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "2fb9424be709",
+   "container_started_at": "2026-11-18T15:54:00.92403738Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": "Prompt executed in 6.70 seconds",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T16:44:30.017Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:44:30.017Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:44:30.017Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:49:39Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:49:39Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T16:49:39Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:53:58.369Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:53:58.369Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:53:58.369Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "5aec9c6fca23",
+   "container_started_at": "2026-11-18T16:53:40.612460592Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": null,
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T16:59:20Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T16:59:20Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T16:59:20Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "5aec9c6fca23",
+   "container_started_at": "2026-11-18T16:53:40.612460592Z",
+   "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+   "last_job_line": "got prompt",
    "run_marker": null,
    "working": true
   }
