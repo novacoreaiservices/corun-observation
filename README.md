@@ -20,8 +20,11 @@ hours carry the heavy video models. No gate policy changes during the window.
     audio) and inference seconds. This is what ties an error or a failed
     disNet job to the exact model that was co-running.
   - `samples[].disnet_jobs` — per sample, what disNet job each node was
-    running: working flag, container status and start time, the latest
-    job/run marker found in the rig's logs, and the last job log line.
+    running: working flag, container status and start time, the container
+    IMAGE name (which names the workload being served, e.g.
+    dispersednetwork/compute-comfyui:zimage_turbo) and container ID, the
+    latest job/run marker found in the rig's logs, and the last job log
+    line.
   - `baseline`, `eta_watermark_ms`, window start/end.
 - `disnet-jobs.json` — the running-jobs view derived from the state file:
   `current` (the latest sample's per-node job state) plus the full
@@ -33,4 +36,4 @@ hours carry the heavy video models. No gate policy changes during the window.
 Data is read-only observation output. The timing records are a sample of
 jobs, not a complete ledger.
 
-Last upload: 2026-11-18T05:06:03Z
+Last upload: 2026-11-18T05:59:49Z
