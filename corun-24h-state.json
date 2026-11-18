@@ -14,9 +14,9 @@
     }
   },
   "eta_watermark_ms": {
-    "5070": 1795010164488,
-    "570": 1795010023721,
-    "870": 1795009742549
+    "5070": 1795013487691,
+    "570": 1795013530670,
+    "870": 1795013403618
   },
   "jobs": [
     {
@@ -9300,6 +9300,335 @@
       "s": 4.347,
       "ts": "2026-11-18T13:56:04.488Z",
       "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "video",
+      "rig": "870",
+      "s": 505.721,
+      "ts": "2026-11-18T14:01:16.167Z",
+      "wf": "minimax-h3-fl2va-fp8_i2v_balanced"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 59.671,
+      "ts": "2026-11-18T14:03:12.073Z",
+      "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 9.883,
+      "ts": "2026-11-18T14:03:43.493Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 52.368,
+      "ts": "2026-11-18T14:07:18.006Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 7.718,
+      "ts": "2026-11-18T14:09:56.900Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 6.232,
+      "ts": "2026-11-18T14:10:36.500Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 6.758,
+      "ts": "2026-11-18T14:11:54.177Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 9.294,
+      "ts": "2026-11-18T14:12:13.841Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 9.091,
+      "ts": "2026-11-18T14:12:36.661Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 9.061,
+      "ts": "2026-11-18T14:13:33.017Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 7.054,
+      "ts": "2026-11-18T14:13:51.826Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 31.591,
+      "ts": "2026-11-18T14:11:46.241Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 6.254,
+      "ts": "2026-11-18T14:14:17.107Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 6.533,
+      "ts": "2026-11-18T14:14:41.435Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 43.762,
+      "ts": "2026-11-18T14:15:00.637Z",
+      "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 6.26,
+      "ts": "2026-11-18T14:15:09.168Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "5070",
+      "s": 43.101,
+      "ts": "2026-11-18T14:15:48.953Z",
+      "wf": "chroma-v48-detail-svd_fp8"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 10.247,
+      "ts": "2026-11-18T14:17:12.495Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 6.411,
+      "ts": "2026-11-18T14:17:52.913Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 6.113,
+      "ts": "2026-11-18T14:18:27.703Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 6.471,
+      "ts": "2026-11-18T14:18:55.130Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "870",
+      "s": 66.79,
+      "ts": "2026-11-18T14:19:04.904Z",
+      "wf": "krea2_identity_edit_v1_2"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 6.22,
+      "ts": "2026-11-18T14:19:45.184Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 5.088,
+      "ts": "2026-11-18T14:19:56.039Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 5.972,
+      "ts": "2026-11-18T14:20:19.960Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 5.21,
+      "ts": "2026-11-18T14:20:53.293Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 9.117,
+      "ts": "2026-11-18T14:21:22.245Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 6.457,
+      "ts": "2026-11-18T14:22:19.030Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 6.084,
+      "ts": "2026-11-18T14:22:46.052Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 10.103,
+      "ts": "2026-11-18T14:23:08.721Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 7.901,
+      "ts": "2026-11-18T14:25:50.086Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 9.129,
+      "ts": "2026-11-18T14:27:22.502Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 15.877,
+      "ts": "2026-11-18T14:30:39.844Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 7.992,
+      "ts": "2026-11-18T14:31:17.078Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 9.181,
+      "ts": "2026-11-18T14:35:20.269Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 9.12,
+      "ts": "2026-11-18T14:35:40.218Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 6.302,
+      "ts": "2026-11-18T14:37:36.616Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 7.308,
+      "ts": "2026-11-18T14:40:56.196Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 6.236,
+      "ts": "2026-11-18T14:42:21.433Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 9.227,
+      "ts": "2026-11-18T14:43:20.852Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 6.309,
+      "ts": "2026-11-18T14:45:49.176Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "cls": "image",
+      "rig": "570",
+      "s": 6.607,
+      "ts": "2026-11-18T14:46:34.539Z",
+      "wf": "krea2_turbo_fp8_scaled"
+    },
+    {
+      "ts": "2026-11-18T14:50:03.618Z",
+      "rig": "870",
+      "wf": "krea2_identity_edit_v1_2",
+      "cls": "image",
+      "s": 3.481
+    },
+    {
+      "ts": "2026-11-18T14:50:17.756Z",
+      "rig": "570",
+      "wf": "krea2_turbo_fp8_scaled",
+      "cls": "image",
+      "s": 6.468
+    },
+    {
+      "ts": "2026-11-18T14:51:39.615Z",
+      "rig": "570",
+      "wf": "krea2_turbo_fp8_scaled",
+      "cls": "image",
+      "s": 6.113
+    },
+    {
+      "ts": "2026-11-18T14:52:10.670Z",
+      "rig": "570",
+      "wf": "krea2_turbo_fp8_scaled",
+      "cls": "image",
+      "s": 6.17
+    },
+    {
+      "ts": "2026-11-18T14:51:27.691Z",
+      "rig": "5070",
+      "wf": "krea2_turbo_fp8_scaled",
+      "cls": "image",
+      "s": 169.819
     }
   ],
   "samples": [
@@ -15493,6 +15822,476 @@
         "478": 7
       },
       "ts": "2026-11-18T13:59:37Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": true,
+        "870": false
+      },
+      "complete": {
+        "462": 173,
+        "463": 133,
+        "478": 31
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": "running",
+          "container_id": "ce1d300c832b",
+          "container_started_at": "2026-11-18T11:01:53.267451675Z",
+          "image": "dispersednetwork/llama.cpp_basicauth_preload:latest",
+          "last_job_line": "[34735] 40.08.934.562 I slot      release: id  0 | task 4968 | stop processing: n_tokens = 61, truncated = 0",
+          "run_marker": null,
+          "working": true
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T14:03:58Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": true,
+        "870": false
+      },
+      "complete": {
+        "462": 173,
+        "463": 133,
+        "478": 32
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": "running",
+          "container_id": "ce1d300c832b",
+          "container_started_at": "2026-11-18T11:01:53.267451675Z",
+          "image": "dispersednetwork/llama.cpp_basicauth_preload:latest",
+          "last_job_line": "[34735] 40.08.934.562 I slot      release: id  0 | task 4968 | stop processing: n_tokens = 61, truncated = 0",
+          "run_marker": null,
+          "working": true
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T14:09:38.814Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": true,
+        "870": false
+      },
+      "complete": {
+        "462": 173,
+        "463": 141,
+        "478": 34
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": "running",
+          "container_id": "ce1d300c832b",
+          "container_started_at": "2026-11-18T11:01:53.267451675Z",
+          "image": "dispersednetwork/llama.cpp_basicauth_preload:latest",
+          "last_job_line": "[34735] 40.08.934.562 I slot      release: id  0 | task 4968 | stop processing: n_tokens = 61, truncated = 0",
+          "run_marker": null,
+          "working": true
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T14:14:17.601Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": true,
+        "870": false
+      },
+      "complete": {
+        "462": 174,
+        "463": 147,
+        "478": 36
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": "running",
+          "container_id": "ce1d300c832b",
+          "container_started_at": "2026-11-18T11:01:53.267451675Z",
+          "image": "dispersednetwork/llama.cpp_basicauth_preload:latest",
+          "last_job_line": "[34735] 40.08.934.562 I slot      release: id  0 | task 4968 | stop processing: n_tokens = 61, truncated = 0",
+          "run_marker": null,
+          "working": true
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T14:19:32Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": true,
+        "870": false
+      },
+      "complete": {
+        "462": 174,
+        "463": 156,
+        "478": 36
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": "running",
+          "container_id": "ce1d300c832b",
+          "container_started_at": "2026-11-18T11:01:53.267451675Z",
+          "image": "dispersednetwork/llama.cpp_basicauth_preload:latest",
+          "last_job_line": "[34735] 40.08.934.562 I slot      release: id  0 | task 4968 | stop processing: n_tokens = 61, truncated = 0",
+          "run_marker": null,
+          "working": true
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T14:24:21Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": true,
+        "870": true
+      },
+      "complete": {
+        "462": 174,
+        "463": 158,
+        "478": 36
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": "running",
+          "container_id": "ce1d300c832b",
+          "container_started_at": "2026-11-18T11:01:53.267451675Z",
+          "image": "dispersednetwork/llama.cpp_basicauth_preload:latest",
+          "last_job_line": "[34735] 40.08.934.562 I slot      release: id  0 | task 4968 | stop processing: n_tokens = 61, truncated = 0",
+          "run_marker": null,
+          "working": true
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": true
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T14:29:08Z"
+    },
+    {
+      "busy": {
+        "5070": false,
+        "570": true,
+        "870": false
+      },
+      "complete": {
+        "462": 174,
+        "463": 160,
+        "478": 36
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        },
+        "570": {
+          "container": "running",
+          "container_id": "ce1d300c832b",
+          "container_started_at": "2026-11-18T11:01:53.267451675Z",
+          "image": "dispersednetwork/llama.cpp_basicauth_preload:latest",
+          "last_job_line": "[34735] 40.08.934.562 I slot      release: id  0 | task 4968 | stop processing: n_tokens = 61, truncated = 0",
+          "run_marker": null,
+          "working": true
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T14:34:27Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": true,
+        "870": false
+      },
+      "complete": {
+        "462": 174,
+        "463": 163,
+        "478": 36
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "282ae93036d4",
+          "container_started_at": "2026-11-18T14:34:56.978335386Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "Prompt executed in 7.21 seconds",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": "running",
+          "container_id": "ce1d300c832b",
+          "container_started_at": "2026-11-18T11:01:53.267451675Z",
+          "image": "dispersednetwork/llama.cpp_basicauth_preload:latest",
+          "last_job_line": "[34735] 40.08.934.562 I slot      release: id  0 | task 4968 | stop processing: n_tokens = 61, truncated = 0",
+          "run_marker": null,
+          "working": true
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T14:39:46Z"
+    },
+    {
+      "busy": {
+        "5070": true,
+        "570": true,
+        "870": false
+      },
+      "complete": {
+        "462": 174,
+        "463": 168,
+        "478": 36
+      },
+      "disnet_jobs": {
+        "5070": {
+          "container": "running",
+          "container_id": "282ae93036d4",
+          "container_started_at": "2026-11-18T14:34:56.978335386Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "last_job_line": "Prompt executed in 60.28 seconds",
+          "run_marker": null,
+          "working": true
+        },
+        "570": {
+          "container": "running",
+          "container_id": "ce1d300c832b",
+          "container_started_at": "2026-11-18T11:01:53.267451675Z",
+          "image": "dispersednetwork/llama.cpp_basicauth_preload:latest",
+          "last_job_line": null,
+          "run_marker": null,
+          "working": true
+        },
+        "870": {
+          "container": null,
+          "container_id": null,
+          "container_started_at": null,
+          "image": null,
+          "last_job_line": null,
+          "run_marker": null,
+          "working": false
+        }
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      },
+      "ts": "2026-11-18T14:46:55Z"
+    },
+    {
+      "ts": "2026-11-18T14:58:16Z",
+      "busy": {
+        "870": false,
+        "570": true,
+        "5070": true
+      },
+      "disnet_jobs": {
+        "870": {
+          "working": false,
+          "container": null,
+          "container_started_at": null,
+          "image": null,
+          "container_id": null,
+          "run_marker": null,
+          "last_job_line": null
+        },
+        "570": {
+          "working": true,
+          "container": "running",
+          "container_started_at": "2026-11-18T11:01:53.267451675Z",
+          "image": "dispersednetwork/llama.cpp_basicauth_preload:latest",
+          "container_id": "ce1d300c832b",
+          "run_marker": null,
+          "last_job_line": null
+        },
+        "5070": {
+          "working": true,
+          "container": "running",
+          "container_started_at": "2026-11-18T14:34:56.978335386Z",
+          "image": "dispersednetwork/compute-comfyui:zimage_turbo",
+          "container_id": "282ae93036d4",
+          "run_marker": null,
+          "last_job_line": "got prompt"
+        }
+      },
+      "complete": {
+        "462": 174,
+        "463": 170,
+        "478": 36
+      },
+      "errors": {
+        "462": 0,
+        "463": 0,
+        "478": 7
+      }
     }
   ],
   "window_end_utc": "2026-11-19T00:00:00Z",
