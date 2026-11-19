@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-18T22:59:57Z",
+ "updated": "2026-11-18T23:59:53Z",
  "current": {
-  "ts": "2026-11-18T22:59:07Z",
+  "ts": "2026-11-18T23:54:35Z",
   "jobs": {
    "5070": {
-    "container": null,
-    "container_id": null,
-    "container_started_at": null,
-    "image": null,
-    "last_job_line": null,
+    "container": "running",
+    "container_id": "4404bed2ac7e",
+    "container_started_at": "2026-11-18T23:49:32.401683019Z",
+    "image": "registry.aoraki.cloud/org_vxhec42omu/pearl-5060ti-16g:d312ba8",
+    "last_job_line": "[23:52:56] new job from pool.pearlhash.xyz:9000",
     "run_marker": null,
-    "working": false
+    "working": true
    },
    "570": {
     "container": null,
@@ -7082,6 +7082,369 @@
    "last_job_line": null,
    "run_marker": null,
    "working": false
+  },
+  {
+   "ts": "2026-11-18T23:04:10Z",
+   "rig": "870",
+   "container": "running",
+   "container_id": "f35a8c685418",
+   "container_started_at": "2026-11-18T23:04:14.283126182Z",
+   "image": "ubuntu:latest",
+   "last_job_line": null,
+   "run_marker": "a6778e53-a113-b52a-1307-c239557b3bd6",
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T23:04:10Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:04:10Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:09:21Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:09:21Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T23:09:21Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:17:08Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:17:08Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:17:08Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:23:16Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:23:16Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:23:16Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "5f62556eb208",
+   "container_started_at": "2026-11-18T23:23:36.969890881Z",
+   "image": "ubuntu:latest",
+   "last_job_line": "Unknown error running Nvidia container, please check your configuration",
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:26:12Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:26:12Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:26:12Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:29:21Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:29:21Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:29:21Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:37:37Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T23:37:37Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:37:37Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": "Unknown error running Nvidia container, please check your configuration",
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:39:34Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:39:34Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:39:34Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:44:24.131Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:44:24.131Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:44:24.131Z",
+   "rig": "5070",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": "Unknown error running Nvidia container, please check your configuration",
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:51:07.506Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:51:07.506Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:51:07.506Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "4404bed2ac7e",
+   "container_started_at": "2026-11-18T23:49:32.401683019Z",
+   "image": "registry.aoraki.cloud/org_vxhec42omu/pearl-5060ti-16g:d312ba8",
+   "last_job_line": "[23:49:34] new job from pool.pearlhash.xyz:9000",
+   "run_marker": null,
+   "working": true
+  },
+  {
+   "ts": "2026-11-18T23:54:35Z",
+   "rig": "870",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:54:35Z",
+   "rig": "570",
+   "container": null,
+   "container_id": null,
+   "container_started_at": null,
+   "image": null,
+   "last_job_line": null,
+   "run_marker": null,
+   "working": false
+  },
+  {
+   "ts": "2026-11-18T23:54:35Z",
+   "rig": "5070",
+   "container": "running",
+   "container_id": "4404bed2ac7e",
+   "container_started_at": "2026-11-18T23:49:32.401683019Z",
+   "image": "registry.aoraki.cloud/org_vxhec42omu/pearl-5060ti-16g:d312ba8",
+   "last_job_line": "[23:52:56] new job from pool.pearlhash.xyz:9000",
+   "run_marker": null,
+   "working": true
   }
  ]
 }
